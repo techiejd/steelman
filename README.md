@@ -27,6 +27,8 @@ Claude will:
 3. **Make an honest call** — did your choice survive the scrutiny, or is an alternative stronger?
 4. **Present a decision prompt** — proceed, reconsider, or investigate
 
+Claude will also **suggest invoking it automatically** when it detects a high-stakes, hard-to-reverse decision in context — architecture choices, technology selections, strategic pivots. It won't auto-run; it will ask if you want to steelman before proceeding.
+
 ## When to use it
 
 - Architecture choices (monolith vs. microservices, database selection)
